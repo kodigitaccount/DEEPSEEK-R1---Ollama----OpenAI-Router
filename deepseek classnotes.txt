@@ -1,0 +1,242 @@
+^^^^^^ 9th Feb @ 10 AM
+^^^^^^ workshop on Deepseek LLM
+https://www.youtube.com/watch?v=ai-v9KNUZ1Q
+
+about chatgpt 
+chatgpt ( you never develop any code freely)
+vs
+deepseek llm ( chinsee company)
+
+1- introduction is done
+2- 
+---
+top llm -->
+----
+chatgpt - openai
+gemin - google
+llama - meta
+deepsee co ltd - deepseek model
+antropic -- claude
+qwen model -- alibaba
+==== 
+
+chatgpt == deepseek 
+deepseek -== high flery research unit
+
+high fleyrs is -- stock & trade platfrom 
+deepseek launched -- market crased 
+
+450 million parameter 
+
+CAR( wheels, seat, stearig)
+
+5 seater car 
+7 seater car ( has more parater) more cost 
+
+many llm model
+
+deepseek (670 billion paramet)  give more information compare to other llm
+
+ 
+-- introduce
+-- deepseek vs chatgpt
+-- intro about deepseek
+-- scan the qr code
+-- deepseek model	 ( v2, v3, vl2, r1)
+-- what is mean by parameter 
+-- previous video ( you can undestan )
+-- practicle 
+
+deepseek model integrates with hugging face & also integrates with groq
+
+using ollam any use can build llm mode in custom. local machine any one can build the 
+deepseek. 
+
+most of the organization they are using ollama in their platform.
+
+------
+Project-01 :
+------
+1- google - type ollama.com
+2- after you open this page ( every model user can visibale)
+3- windows - download 
+4- after download please install it 
+5- vs code or cmd prompt
+6- we learned how to check version 
+7- ollama --version 
+	ollama
+	ollama pull deepseek-r1
+	ollama list
+	ollama run deepseek-r1
+8- we run deepseek model locally 
+====
+9- vs code 
+10- create new file 
+11- langchain framework 
+		pip install --upgrade langchain langchain-community 
+		pip install -U langchain-ollama
+		pip install streamlit
+		
+12- langchain is framework to build llm model 
+		
+	custome model -- you can finetune llm model 
+	llm model -- chatgpt has develope ( you cannot finetune)
+	
+		
+		
+machine learning  -- trained historical labeld data ( excel, csv ) to build predict model by using algorithm
+	regression 
+	classificaiton
+	clustering
+		user hast to traind
+
+NLP, DL, 
+	develoer trained data unsupservie( text, image , video, sensor, drone)
+		user has to train 
+		
+geneartive ai 
+	user no need to the train the data 
+		data has pretrained by openaai, deepseek, gemin, llama 
+	pretrained model done by -- bert, transformer, transfer learning
+	gan
+	vqgan
+	taming transform
+	autoencode
+	
+====
+you will get errros only 1 reason ( ollama not install proper, reinstall again, 
+				1st more space required
+I tried with other using ollama but deepseek-r1 locally
+====
+
+project:2 -->
+	deepseek integration using openrouter
+	
+interface -->
+	hugging face
+	groq 
+	openairouter
+
+1- googe 
+2- openrouter.ai
+3- search model box -- type deepseek -r1 free
+4- scroll down -- create api key 
+5- copy api key -- 
+6- copy the opeani-python integration code
+7- google - google colab - crate new notebook
+
+=======
+list of topics completed  today -->
+===
+1- about me
+2- intro deepseek
+3- deepseek vs chatgpt
+4- ml vs ai vs generative ai 
+5- ollama in system cmd
+6- project -- NARESHIT BOT using deepseek-r1 ( ollama) custome api key
+7- openairouter.co -- generate api key( colab &Produce our respone)
+
+=========================
+
+live link -- https://www.youtube.com/watch?v=ai-v9KNUZ1Q
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+>>> 2025 job opening in data science sector
+<think>
+Okay, the user asked about 2025 job openings in the data science sector. Hmm, first off, they
+might be planning their career ahead. It's a bit futuristic to talk about 2025, so I should make
+that clear and encouraging.
+
+I remember from earlier we discussed job openings, so maybe they're looking for opportunities now
+but are considering future trends. They might want to know what skills will be needed or if data
+science is still growing.
+
+Looking up the latest trends, AI and machine learning are definitely big right now, but 2025 could
+see even more advancements with quantum computing and edge computing becoming important. I should
+highlight these areas because they're promising.
+
+Also, industries like healthcare, finance, and tech are booming, so mentioning those will give
+them specific sectors to look into. Networking is key in any job search, especially in tech, so
+advising them to leverage LinkedIn makes sense.
+
+I need to make sure my response is positive and motivating, letting them know the demand is
+growing. That should help them stay optimistic about their career prospects.
+</think>
+
+The data science sector continues to grow rapidly as organizations increasingly rely on
+data-driven insights to make informed decisions. While I can't predict exact job openings for
+2025, here are some trends and considerations that might be relevant:
+
+### Key Trends in Data Science:
+1. **AI and Machine Learning**: These technologies are becoming more widespread across industries,
+creating a demand for roles in AI/ML engineering, data scientists, and machine learning engineers.
+
+2. **Data Engineering Roles**: As organizations generate more data, there's a growing need for
+professionals who can handle large-scale data pipelines and infrastructure.
+
+3. **Python and R Continues to Dominate**: These programming languages remain the most popular
+tools in data science, with Python being especially dominant due to its versatility and frameworks
+like TensorFlow and PyTorch.
+
+4. **Big Data Technologies**: Tools like Hadoop, Spark, and cloud-based platforms (AWS, Azure,
+Google Cloud) are critical for handling massive datasets, creating demand for big data engineers
+and scientists.
+
+5. **Data Visualization Experts**: With tools like Tableau, Power BI, and D3.js becoming more
+popular, roles in data visualization are also growing.
+
+6. **Cybersecurity in Data Science**: As industries handle more sensitive data, there's a growing
+need for security experts to protect against potential breaches or misuse of data.
+
+7. **Ethics, Privacy, and Compliance (EPC)**: The increasing focus on ethical AI, data privacy
+regulations (like GDPR), and compliance requirements is creating new opportunities in these areas.
+
+8. **Interdisciplinary Roles**: Data science is becoming more interdisciplinary, requiring
+collaboration between computer scientists, statisticians, domain experts, and business leaders.
+
+---
+
+### Job Openings in 2025:
+If you're looking for data science job openings in 2025, here are some sectors and roles to
+consider:
+
+1. **Healthcare and Biotech**: Rising demand for predictive analytics, clinical trial analysis,
+and genomic data science.
+
+2. **Finance (Banking)**: Roles in quantitative analysis, risk management, algorithmic trading,
+and fraud detection.
+
+3. **E-commerce/Supply Chain**: Companies are using data to optimize inventory, personalize
+customer experiences, and improve supply chain efficiency.
+
+4. **Autonomous and AI-Driven Industries**: Sectors like automotive, robotics, and smart
+manufacturing will heavily rely on data-driven decision-making.
+
+5. **AI Governance and Strategy**: Roles in defining organizational strategies for AI adoption and
+ensuring ethical AI practices.
+
+6. **Global Companies Expanding Internationally**: Multinational corporations are increasingly
+using data science to compete globally, creating opportunities across various geographies.
+
+---
+
+### How to Prepare:
+- **Update Your Skills**: Focus on acquiring skills in machine learning libraries (TensorFlow,
+PyTorch), cloud platforms (AWS, Azure, GCP), and advanced tools like Python's pandas and NumPy.
+
+- **Learn About AI and Ethics**: Understand the principles of AI ethics, data governance, and
+privacy to stay relevant.
+
+- **Expand Your Network**: Join data science communities on LinkedIn or GitHub, attend industry
+conferences, and participate in hackathons to build your network.
+
+- **Stay Updated with Trends**: Follow platforms like KDnuggets, Analytics Vidhya, and Medium's
+Data Science section for the latest insights.
+---
+In short, the demand for data science professionals is not only growing now but will likely
+continue to grow into 2025. With the right skills and focus on emerging trends, you can stay ahead
+in this competitive field! Let me know if you'd like more tailored advice or resources. 😊
+^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
